@@ -1,0 +1,15 @@
+h1{
+    color: white;
+}
+body{
+    background-color: #3D3C3A; 
+    font-family: 'Cinzel', serif;
+    color: white;
+}
+.one{
+    background-image: url(canaltoen.jpg);
+}
+.sub1{
+    text-align: center;
+    font-weight: 900;
+}
