@@ -61,7 +61,7 @@ body{
 }
 .widthimg2{
     width: 65%;
-    padding: 0% 2.2% 0% 0%;
+    padding: 0% 1% 0% 0%;
     box-shadow: 10px 5px 55px rgb(41, 32, 47);
     text-align: center;
 }
@@ -140,9 +140,11 @@ footer p{
 .cruel{
     
     height: 650px;
-    padding-left: 50px;
+    padding-left: 80px;
     padding-right: 0px;
     text-align: center;
+    
+
     
     margin-right: 0px;
 }
