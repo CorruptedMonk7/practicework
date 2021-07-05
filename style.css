@@ -1,6 +1,13 @@
 h1{
     color: rgb(228, 228, 228);
-    font-size: 40px;
+    
+    padding: 0px;
+    margin: 0px;
+}
+.ha{
+    font-size: 70px;
+    color: rgb(228, 228, 228);
+    
     padding: 0px;
     margin: 0px;
 }
@@ -63,6 +70,7 @@ body{
     background-image: linear-gradient( #304352,  black);
     color: white;
     text-decoration: none;
+    border-radius: 15px;
 }
 .search{
     
