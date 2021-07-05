@@ -67,3 +67,27 @@ footer p{
     text-align: center;
     padding: 20px 50px;
 }
+.page{
+    display: inline;
+    color: white;
+
+}
+.pagestuff{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#p2{
+    font-size: 17px;
+}
+#p3{
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.button{
+    padding: 5px 10px;
+    background-image: linear-gradient( #304352,  black);
+    color: white;
+    text-decoration: none;
+}
