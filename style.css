@@ -143,8 +143,10 @@ footer p{
     padding-left: 80px;
     padding-right: 0px;
     text-align: center;
-    
-
-    
     margin-right: 0px;
+}
+.butt{
+    border-radius: 10px;
+    border:2px rgb(152, 143, 126) solid;
+    box-shadow: 5px 5px 10px #ebf1ac;
 }
