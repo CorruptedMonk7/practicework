@@ -1,15 +1,69 @@
 h1{
-    color: white;
+    color: rgb(228, 228, 228);
+    font-size: 60px;
 }
 body{
-    background-color: #3D3C3A; 
+    background-color: rgb(15, 17, 30); 
     font-family: 'Cinzel', serif;
     color: white;
+    margin: 0px;
+    border:none;
+    padding:0px;
 }
 .one{
     background-image: url(canaltoen.jpg);
+    background-position: 0px;
+    
+    
 }
 .sub1{
     text-align: center;
     font-weight: 900;
+    margin: 0px;
+}
+.two{
+    display:flex;
+    text-align: center;
+    color:rgb(207, 233, 157);
+}
+.widthimg1 img{
+    width:100%;
+    height: 650px;
+}
+.widthimg1{
+    width: 30%;
+    padding: 2.2% 2.2% 2% 2.2%;
+    box-shadow: 10px 5px 55px rgb(41, 32, 47);
+}
+.widthimg2 img{
+    width:100%;
+    height: 1000px;
+}
+.widthimg2{
+    width: 95%;
+    padding: 2.2% 2.2% 2% 2.2%;
+    box-shadow: 10px 5px 55px rgb(41, 32, 47);
+}
+.button{
+    padding: 5px 15px;
+    background-image: linear-gradient( #304352,  black);
+    color: white;
+    text-decoration: none;
+}
+.search{
+    
+    margin: 100px;
+    box-shadow: 10px 5px 40px #161717;
+    border-radius: 40px;
+    
+    
+}
+.three{
+    display:flex;
+    text-align: center;
+    color:rgb(207, 233, 157);
+}
+footer p{
+    text-align: center;
+    padding: 20px 50px;
 }
